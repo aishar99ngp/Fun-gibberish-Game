@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+body{
+    font-family: 'Montserrat',sans-serif;
+}
+textarea{
+    width: 50%;
+    display: block;
+    margin: 1rem;
+    height:10vh;
+    padding: 1rem;
+    text-align: center;
+    margin-left: 18rem;
+    
+    
+
+
+}
+   #output{
+       border: 1px solid black;
+       height: 10vh;
+       margin: 1rem;
+       padding: 1rem;
+       width:50%;
+       display: block;
+       margin-left: 18rem;
+       background-color: white;
+       margin-bottom: 1rem;
+   }
+.btn-translate{
+    text-align: center;
+}
+h1{
+   
+    text-align: center;
+    margin-top: 1rem;
+}
+.navigation{
+    background-color:#002147;
+    color:white;
+    padding: 0.5rem;
+    border-bottom-left-radius: 1rem;
+    padding:1rem;
+    
+}
+.ferb{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-bottom: 2rem;
+}
+.navigation .nav-brand{
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+.txt-input{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.one{
+    text-align: center;
+    padding-top: 1rem;
+}
+button{
+    text-align: center;
+}
+.two{
+    text-align: center;
+    background-color: beige;
+    height: 65vh;
+    padding-top: 1rem;
+}
+h4{
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
